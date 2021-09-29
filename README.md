@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Barros</h1>
-<h3 align="center">A iOS Developer from :portugal: @ Bliss Applications</h3>
+<h3 align="center">A iOS Developer from :portugal: working @ Bliss Applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaobarros1993&label=Profile%20views&color=0e75b6&style=flat" alt="joaobarros1993" /> </p>
 
